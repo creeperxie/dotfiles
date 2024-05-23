@@ -1,0 +1,6 @@
+{
+  "catppuccin": { "branch": "main", "commit": "d97387aea8264f484bb5d5e74f2182a06c83e0d8" },
+  "lazy.nvim": { "branch": "main", "commit": "758bb5de98b805acc5eeed8cdc8ac7f0bc4b0b86" },
+  "nvim-treesitter": { "branch": "master", "commit": "19ac9e8b5c1e5eedd2ae7957243e25b32e269ea7" },
+  "vim-wakatime": { "branch": "master", "commit": "3cb40867cb5a3120f9bef76eff88edc7f1dc1a23" }
+}
