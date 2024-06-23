@@ -5,7 +5,7 @@ return {
 	config = function ()
 	    local configs = require("nvim-treesitter.configs")
 	    configs.setup {
-		ensure_installed = { "markdown" },
+		ensure_installed = { "c", "cpp", "python", "markdown", "rust" },
 		highlight = { enable = true },
 		indent = { enable = true},
 	    }
